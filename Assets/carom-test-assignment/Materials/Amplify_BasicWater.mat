@@ -36,7 +36,7 @@ Material:
     - _SeaFoamTile: 0.12
     - _SecondMapMultiplier: 8
     - _Smoothness: 0.5
-    - _WaveScale: 0.04
+    - _WaveScale: 0.2
     - _WaveSpeed: 0.2
     - _WaveTile: 1.97
     - __dirty: 1
