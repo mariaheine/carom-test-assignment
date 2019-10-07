@@ -1124,6 +1124,7 @@ MonoBehaviour:
   createStrike: {fileID: 948854052}
   strikeRenderer: {fileID: 982545377}
   ReplayButton: {fileID: 673725324}
+  gameStateManager: {fileID: 293203101}
 --- !u!114 &191797095
 MonoBehaviour:
   m_ObjectHideFlags: 0
